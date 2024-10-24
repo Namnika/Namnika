@@ -77,9 +77,11 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 
 [![](https://img.shields.io/badge/-📰%20News%20Homepage-000)](https://github.com/Namnika/News-Homepage)
 
-<hr width="50%">
+
 
 <div align="center" style="padding-top: 10px;">
+
+<hr width="50%">
 
 #### _Follow me over the internet:_
 
