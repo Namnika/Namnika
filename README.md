@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 <br>
 
-<!-- add like this links to all gifs used in this readme https://raw.githubusercontent.com/<your_Github_username>/<your_repository_name>/<branch_name>/<file_name>.<extension_name> -->
-
 <img style="width:100%;" src="https://github.com/Namnika/Namnika/blob/main/profile-animated.gif?raw=true">
 
 <br>
