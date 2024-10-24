@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <br>
 
-<img style="width:100%;" src="https://github.com/Namnika/Namnika/blob/main/profile-animated.gif?raw=true">
+<a href="https://www.namnika.janbandhu.com"><img style="width:100%;" src="https://github.com/Namnika/Namnika/blob/main/profile-animated.gif?raw=true"></a>
 
 <br>
 
