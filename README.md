@@ -11,11 +11,12 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 
 ### About My Personal Stuffs:
 
+⇒ 💼 I’m currently working as a Graduate Apprentice in Finance & Account Division in Ordnance Factory Ambajhari Defence, Nagpur, Maharashtra, India.   
 ⇒ 🔭 I’m currently working on my ongoing semester FED projects.  
 ⇒ 🌱 I’m currently learning new Technologies Typescript and Vue.js.  
 ⇒ 👯 I’m looking to leverage my skills on community-driven projects.  
 ⇒ 🎯 I'm always eager to embrace new challenges and opportunities in the industry.  
-⇒ 💼 I'm pursuing a Master's degree in Computer Applications with a specialization in Full Stack Development.  
+⇒ 📖 I'm pursuing a Master's degree in Computer Applications with a specialization in Full Stack Development.  
 ⇒ 🤔 My Interests includes:
 
 - 🌎 Travelling the World
