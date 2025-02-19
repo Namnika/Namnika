@@ -72,6 +72,9 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 [![](https://img.shields.io/badge/-🔒%20Secret%20Authentication-000)](https://github.com/Namnika/SecretAuthApp)
 [![](https://img.shields.io/badge/-📒%20Keeper%20App-000)](https://github.com/Namnika/KeeperApp)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://github.com/Namnika/TodoApp)
+![](https://img.shields.io/badge/-🏦%20E--Banking%20Web%20Application%20%20%28Coming%20Soon...!!%29-000)
+
+
 
 ### SPA Projects:
 
@@ -99,6 +102,6 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 [follow-linkedin-shield]: https://img.shields.io/badge/-follow%20me%20on%20linkedin-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
 [follow-x-shield]: https://img.shields.io/badge/-follow%20me%20on%20x-black?labelColor=black&logo=x&logoColor=white&style=flat-square
 [follow-medium-shield]: https://img.shields.io/badge/-follow%20me%20on%20medium-black?labelColor=black&logo=medium&logoColor=white&style=flat-square
-[follow-x-link]: https://twitter.com/bt_13jjks
+[follow-x-link]: https://.com/bt_13jjks
 [follow-linkedin-link]: https://linkedin.com/in/namnika-janbandhu
 [follow-medium-link]: https://medium.com/@namnika.janbandhu7
