@@ -75,7 +75,7 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 
 ### SPA Projects:
 
-[![](https://img.shields.io/badge/-📰%20News%20Homepage-000)](https://github.com/Namnika/News-Homepage)
+[![](https://img.shields.io/badge/-🌏%20Tours%20and%20Travels-000)](https://github.com/Namnika/ToursTravelsWebApplication)
 
 
 
