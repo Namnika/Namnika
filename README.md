@@ -37,6 +37,7 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 <code><img width="20" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code> &nbsp;
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" title="SQL"/></code> &nbsp;
 <code><img width="20" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code> &nbsp;
+<code><img width="35" src="https://raw.githubusercontent.com/Namnika/Namnika/refs/heads/main/svgs/icons8-java-240.svg" alt="Java" title="Java" /></code> &nbsp;
 <code><img width="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" alt="jQuery" title="jQuery"/></code>
 
 ### Frameworks/Libraries:
