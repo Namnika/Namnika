@@ -104,6 +104,6 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 [follow-linkedin-shield]: https://img.shields.io/badge/-follow%20me%20on%20linkedin-black?labelColor=black&logo=linkedin&logoColor=white&style=flat-square
 [follow-x-shield]: https://img.shields.io/badge/-follow%20me%20on%20x-black?labelColor=black&logo=x&logoColor=white&style=flat-square
 [follow-medium-shield]: https://img.shields.io/badge/-follow%20me%20on%20medium-black?labelColor=black&logo=medium&logoColor=white&style=flat-square
-[follow-x-link]: https://.com/bt_13jjks
+[follow-x-link]: https://x.com/bt_13jjks
 [follow-linkedin-link]: https://linkedin.com/in/namnika-janbandhu
 [follow-medium-link]: https://medium.com/@namnika.janbandhu7
