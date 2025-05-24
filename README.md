@@ -74,7 +74,7 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 [![](https://img.shields.io/badge/-🔒%20Secret%20Authentication-000)](https://github.com/Namnika/SecretAuthApp)
 [![](https://img.shields.io/badge/-📒%20Keeper%20App-000)](https://github.com/Namnika/KeeperApp)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://github.com/Namnika/TodoApp)
-[![](https://img.shields.io/badge/-🏦%20E--Banking%20Web%20Application)](https://github.com/Namnika/E-BankingApplication)
+[![](https://img.shields.io/badge/-🏦%20E--Banking%20Web%20Application-000)](https://github.com/Namnika/E-BankingApplication)
 
 
 
