@@ -16,7 +16,7 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 ⇒ 🌱 I’m currently learning new Technologies Typescript and Vue.js.  
 ⇒ 👯 I’m looking to leverage my skills on community-driven projects.  
 ⇒ 🎯 I'm always eager to embrace new challenges and opportunities in the industry.  
-⇒ 📖 I'm pursuing a Master's degree in Computer Applications with a specialization in Full Stack Development.  
+⇒ 📖 I'm pursuing a Master's degree in Computer Applications (MCA) with a specialization in Full Stack Development.  
 ⇒ 🤔 My Interests includes:
 
 - 🌎 Travelling the World
@@ -74,7 +74,7 @@ Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange
 [![](https://img.shields.io/badge/-🔒%20Secret%20Authentication-000)](https://github.com/Namnika/SecretAuthApp)
 [![](https://img.shields.io/badge/-📒%20Keeper%20App-000)](https://github.com/Namnika/KeeperApp)
 [![](https://img.shields.io/badge/-📝%20Todo%20App-000)](https://github.com/Namnika/TodoApp)
-[![](https://img.shields.io/badge/-🏦%20E--Banking%20Web%20Application-000)](https://github.com/Namnika/E-BankingApplication)
+[![](https://img.shields.io/badge/-🏦%20E--Banking%20Web%20Application%20%28Capstone%20MCA%20Final%20Year%20Project%29-000)](https://github.com/Namnika/E-BankingApplication)
 
 
 
