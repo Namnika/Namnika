@@ -5,19 +5,23 @@
 
 <br>
 
-Hi, I'm **Namnika, a Top 100 Scoring Finalists teams globally in IBM TechXchange Pre-Conference watsonx Hackathon 2024** and a **passionate Front-End Software Developer** with a love for creating dynamic, user-friendly websites and applications, **based in India**.
+Hi, I'm **Namnika**, a **Top 100 Scoring Finalist Team Member in the IBM TechXchange Pre-Conference watsonx Hackathon 2024**, and a **passionate Front-End Software Developer** currently working as a **React Developer Intern at Techquadra Software Solutions Pvt. Ltd., Nagpur, Maharashtra**. I love creating dynamic, user-friendly web applications and am based in **India**.
 <br>
 <br>
 
-### About My Personal Stuffs:
+### 🔍 Current Focus:
+I'm currently sharpening my skills in **React**, **UI/UX best practices**, and exploring **full-stack development workflows** to expand my expertise.
 
-⇒ 💼 I’m currently working as a Graduate Apprentice in Finance & Account Division in Ordnance Factory Ambajhari Defence, Nagpur, Maharashtra, India.   
+### About My Personal Stuff:
+
+⇒ 💼 I currently working as a **React Developer Intern** at **Techquadra Software Solutions Pvt. Ltd., Nagpur**.     
+=> 🛡️ I previously worked as a **Graduate Apprentice** in the **Finance & Accounts Division** at **Ordnance Factory Ambajhari, Defence Sector, Nagpur** — gaining nearly **3 months of experience** in financial processes, auditing, bill entry, and recovery sheet creation.  
 ⇒ 🔭 I’m currently working on my ongoing semester FED projects.  
-⇒ 🌱 I’m currently learning new Technologies Typescript and Vue.js.  
+⇒ 🌱 I’m currently learning new Technologies, TypeScript and Vue.js.  
 ⇒ 👯 I’m looking to leverage my skills on community-driven projects.  
 ⇒ 🎯 I'm always eager to embrace new challenges and opportunities in the industry.  
 ⇒ 📖 I'm pursuing a Master's degree in Computer Applications (MCA) with a specialization in Full Stack Development.  
-⇒ 🤔 My Interests includes:
+⇒ 🤔 My Interests include:
 
 - 🌎 Travelling the World
 - 🎮 Playing Video Games
